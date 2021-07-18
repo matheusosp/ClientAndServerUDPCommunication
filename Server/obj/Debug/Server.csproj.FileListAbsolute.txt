@@ -1,0 +1,11 @@
+C:\Users\Mathe\RiderProjects\Trabalho2RedesMatheusOliveira\Server\bin\Debug\Server.exe
+C:\Users\Mathe\RiderProjects\Trabalho2RedesMatheusOliveira\Server\bin\Debug\Server.pdb
+C:\Users\Mathe\RiderProjects\Trabalho2RedesMatheusOliveira\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Mathe\RiderProjects\Trabalho2RedesMatheusOliveira\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Mathe\RiderProjects\Trabalho2RedesMatheusOliveira\Server\obj\Debug\Server.exe
+C:\Users\Mathe\RiderProjects\Trabalho2RedesMatheusOliveira\Server\obj\Debug\Server.pdb
+C:\Users\Mathe\RiderProjects\Trabalho2RedesMatheusOliveira\Server\bin\Debug\Entities.dll
+C:\Users\Mathe\RiderProjects\Trabalho2RedesMatheusOliveira\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mathe\RiderProjects\Trabalho2RedesMatheusOliveira\Server\bin\Debug\Entities.pdb
+C:\Users\Mathe\RiderProjects\Trabalho2RedesMatheusOliveira\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mathe\RiderProjects\Trabalho2RedesMatheusOliveira\Server\obj\Debug\Server.csproj.CopyComplete

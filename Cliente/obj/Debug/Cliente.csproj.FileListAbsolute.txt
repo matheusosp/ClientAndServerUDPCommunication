@@ -1,0 +1,15 @@
+C:\Users\Mathe\RiderProjects\Trabalho2RedesMatheusOliveira\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Mathe\RiderProjects\Trabalho2RedesMatheusOliveira\Cliente\bin\Debug\Cliente.exe
+C:\Users\Mathe\RiderProjects\Trabalho2RedesMatheusOliveira\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Mathe\RiderProjects\Trabalho2RedesMatheusOliveira\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\Mathe\RiderProjects\Trabalho2RedesMatheusOliveira\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Mathe\RiderProjects\Trabalho2RedesMatheusOliveira\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\Mathe\RiderProjects\Trabalho2RedesMatheusOliveira\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Mathe\RiderProjects\Trabalho2RedesMatheusOliveira\Cliente\obj\Debug\Cliente.exe
+C:\Users\Mathe\RiderProjects\Trabalho2RedesMatheusOliveira\Cliente\obj\Debug\Cliente.pdb
+C:\Users\Mathe\RiderProjects\Trabalho2RedesMatheusOliveira\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\Mathe\RiderProjects\Trabalho2RedesMatheusOliveira\Cliente\bin\Debug\Entities.dll
+C:\Users\Mathe\RiderProjects\Trabalho2RedesMatheusOliveira\Cliente\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mathe\RiderProjects\Trabalho2RedesMatheusOliveira\Cliente\bin\Debug\Entities.pdb
+C:\Users\Mathe\RiderProjects\Trabalho2RedesMatheusOliveira\Cliente\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mathe\RiderProjects\Trabalho2RedesMatheusOliveira\Cliente\obj\Debug\Cliente.csproj.CopyComplete
